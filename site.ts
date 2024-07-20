@@ -3,9 +3,9 @@
 // @unocss-include
 
 export default {
-  name: 'NuCommerce',
+  name: 'Cafe Bella Vista',
   description:
-    'Vue Designer Nuxt Tailwind CSS / Nuxt UI - Quick start template',
+    'Serving the Fraser Rise Community With The Best Coffee And Food!',
   logo: 'i-fluent-emoji:shopping-bags',
   author: 'Pinegrow',
   url: 'https://charming-boba-4f69e3.netlify.app/',
