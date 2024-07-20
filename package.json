@@ -2,16 +2,16 @@
   "name": "pg-nuxtui",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pg-nuxtui.netlify.app",
+  "homepage": "https://charming-boba-4f69e3.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinegrow/pg-nuxtui.git"
+    "url": "https://github.com/TechAkayy/my-nuxtui-app.git"
   },
   "scripts": {
     "dev": "nuxt dev",
     "now": "npm run build && npm run preview",
     "lighthouse:dev": "npx unlighthouse --no-cache --site http://localhost:3000",
-    "lighthouse": "npx unlighthouse --no-cache --site https://pg-nuxtui.netlify.app",
+    "lighthouse": "npx unlighthouse --no-cache --site https://charming-boba-4f69e3.netlify.app/",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",

@@ -8,8 +8,8 @@ export default {
     'Vue Designer Nuxt Tailwind CSS / Nuxt UI - Quick start template',
   logo: 'i-fluent-emoji:shopping-bags',
   author: 'Pinegrow',
-  url: 'https://pg-nuxtui.netlify.app',
-  github: 'https://github.com/pinegrow/pg-nuxtui',
+  url: 'https://charming-boba-4f69e3.netlify.app/',
+  github: 'https://github.com/TechAkayy/my-nuxtui-app',
   defaultLocale: 'en', // default
   identity: {
     type: 'Organization',
